@@ -1,0 +1,21 @@
+.btn {
+    background: none;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    font-size: inherit;
+    border-radius: 5px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+
+.btn--primary {
+    color: white;
+    background-color:brown;
+
+}
+
+.btn--primary:hover {
+    background-color: rgb(155, 57, 57);
+}

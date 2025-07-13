@@ -12,10 +12,22 @@
 
 .btn--primary {
     color: white;
-    background-color:brown;
+    background-color:rgb(12, 176, 108);
 
 }
 
 .btn--primary:hover {
-    background-color: rgb(155, 57, 57);
+    background-color: rgb(54, 190, 106);
+}
+
+
+
+.btn--danger {
+    color: white;
+    background-color:rgb(253, 7, 7);
+
+}
+
+.btn--danger:hover {
+    background-color: rgb(241, 41, 41);
 }
